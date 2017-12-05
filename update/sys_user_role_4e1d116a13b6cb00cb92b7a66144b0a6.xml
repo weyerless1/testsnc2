@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_ahho_testsnc2.user</name>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>tlWeyer</sys_created_by>
+        <sys_created_on>2017-12-05 20:18:04</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>4e1d116a13b6cb00cb92b7a66144b0a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_ahho_testsnc2.user</sys_name>
+        <sys_package display_value="testsnc2" source="x_ahho_testsnc2">4e1ddde613b6cb00cb92b7a66144b0df</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="testsnc2">4e1ddde613b6cb00cb92b7a66144b0df</sys_scope>
+        <sys_update_name>sys_user_role_4e1d116a13b6cb00cb92b7a66144b0a6</sys_update_name>
+        <sys_updated_by>tlWeyer</sys_updated_by>
+        <sys_updated_on>2017-12-05 20:18:04</sys_updated_on>
+    </sys_user_role>
+</record_update>

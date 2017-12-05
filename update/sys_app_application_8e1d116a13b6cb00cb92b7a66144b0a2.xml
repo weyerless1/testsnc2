@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>testsnc2</name>
+        <order/>
+        <roles>x_ahho_testsnc2.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>tlWeyer</sys_created_by>
+        <sys_created_on>2017-12-05 20:18:04</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>8e1d116a13b6cb00cb92b7a66144b0a2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>testsnc2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="testsnc2" source="x_ahho_testsnc2">4e1ddde613b6cb00cb92b7a66144b0df</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="testsnc2">4e1ddde613b6cb00cb92b7a66144b0df</sys_scope>
+        <sys_update_name>sys_app_application_8e1d116a13b6cb00cb92b7a66144b0a2</sys_update_name>
+        <sys_updated_by>tlWeyer</sys_updated_by>
+        <sys_updated_on>2017-12-05 20:18:04</sys_updated_on>
+        <title>testsnc2</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
